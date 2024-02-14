@@ -2,7 +2,7 @@
 
 
 <>This program is designed to take websites with the specific disgn and scrape the article out of them.
-I decided to format mine to scrape article from a website that reviews anime episodes.
+I decided to format mine to scrape articles from a website that reviews anime episodes.
 The software will go to each url in the "websites.txt" file and download the content from them.
 It will only download and save the raw articles with a small amoint of information at the bottom.
 The program will create seperate text files for each website visited.
